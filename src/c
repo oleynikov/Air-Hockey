@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ o__O/Pointer/Pointer.cpp o__O/Math/Math.cpp o__O/String/String.cpp o__O/Events/Events.cpp o__O/Thread/Thread.cpp o__O/Time/Time.cpp o__O/SocketServer/SocketServer.cpp o__O/Timer/Timer.cpp AirHockeyServer/AirHockeyServer.cpp Player/Player.cpp Game/Game.cpp Stage/Stage.cpp Ball/Ball.cpp app.cpp -o r -lpthread -lrt -g

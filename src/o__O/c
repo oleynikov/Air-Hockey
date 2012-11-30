@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ app.cpp Math/Math.cpp Thread/Thread.cpp Time/Time.cpp Pointer/Pointer.cpp Events/Events.cpp Timer/Timer.cpp String/String.cpp SocketServer/SocketServer.cpp -o r -lpthread -lrt -g
